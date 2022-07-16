@@ -1,0 +1,25 @@
+#on{
+   
+    position: absolute;
+
+    top: 50%;
+    left: 20%;
+}
+#off{
+   
+    position: absolute;
+
+    top: 50%;
+    right: 20%;
+}
+img{
+    position: absolute ;
+    top: 26%;
+    left: 41%;
+    width: 15%;
+}
+#lamba{
+    width: 100%;
+    height: 625px;
+    background-color: yellow;
+}
